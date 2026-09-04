@@ -13,7 +13,7 @@ Stores race event information, like the event name, description, date, location,
 Categories 
 saves categories for each event. Categories can be based on age, distance and start time. Each category belongs to an event. 
 Participants 
- 
+merges users to events as participants.
 Enrolments 
 saves information when a participant enrols for an event, including the enrolment date. 
 Results 
