@@ -34,7 +34,7 @@ Each table has a primary key that uniquely identifies every record:
 •	An Event can have one or more Categories. Each Category is linked to an Event using eventID. 
 •	A User can participate in an Event. The Participants table links a user to an event. 
 •	A Participant can enrol for an Event. The Enrolments table stores the enrolment information. 
-•	An Enrolment can have one Result. The Results table stores the finish time and finish position. 
+•	A single Enrolment can have one Result. The Results table stores the finish time and finish position. 
 
 6. Database Constraints 
 •	PRIMARY KEY – uniquely identifies each record in a table (Microsoft 2026a).
