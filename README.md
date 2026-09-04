@@ -15,7 +15,7 @@ saves categories for each event. Categories can be based on age, distance and st
 Participants 
 Links users to events as participants. 
 Enrolments 
-Stores information when a participant enrols for an event, including the enrolment date. 
+saves information when a participant enrols for an event, including the enrolment date. 
 Results 
 Stores race results, including finish time and finish position. Each result is linked to an enrolment. 
 4. Primary Keys are
