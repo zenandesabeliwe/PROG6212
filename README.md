@@ -11,7 +11,7 @@ Stores event organiser information. Each organiser is linked to a user through u
 Events 
 Stores race event information, including the event name, description, date, location, distance and event type. Each event is managed by an organiser (Microsoft 2026). 
 Categories 
-Stores categories for each event. Categories can be based on age, distance and start time. Each category belongs to an event. 
+saves categories for each event. Categories can be based on age, distance and start time. Each category belongs to an event. 
 Participants 
 Links users to events as participants. 
 Enrolments 
