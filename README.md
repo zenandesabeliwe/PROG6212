@@ -47,7 +47,7 @@ Each table has a primary key that uniquely identifies every record:
 The RaceDay database is implemented using Microsoft SQL Server and SQL Server Management Studio (SSMS). The SQL script creates the RaceDayDB database, creates all 
 tables from the ERD, defines primary keys and foreign keys, and inserts realistic sample data including organisers, participants, events, categories, enrolments and results. 
 8. Design Note 
-The relationship between Events and Categories is implemented using eventID in the Categories table. This means that one event can have many categories. This design avoids unnecessary duplication and keeps the relationship simple. 
+The relationship between Events and Categories is created using eventID in the Categories table. This means that one event can have many categories. This design avoids unnecessary duplication and keeps the relationship simple. 
 9. Technologies Used (Microsoft 2026):
 •	Microsoft SQL Server 
 •	SQL Server Management Studio (SSMS) 
