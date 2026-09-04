@@ -1,7 +1,7 @@
 # PROG6212 Part 1
  1. Project Overview 
 RaceDay is a database system designed to manage running events. The system stores information about users, organisers, events, event categories, participants, enrolments and race results. The Entity Relationship Diagram (ERD) shows how these entities are related to one another. 
-2. Entity Relationship Diagram (ERD) 
+2. Entity Relationship Diagram (ERD) in UML 
 The ERD is used to plan the structure of the RaceDay database before creating it in Microsoft SQL Server. Each entity represents a table in the database, while primary keys and foreign keys are used to create relationships between the tables. 
 3. Entities in the RaceDay System 
 Users 
