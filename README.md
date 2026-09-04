@@ -43,7 +43,7 @@ Each table has a primary key that uniquely identifies every record:
 •	UNIQUE – prevents duplicate values, for example duplicate email addresses. 
 •	DEFAULT – provides a default value when no value is supplied. 
 
-7. Database Implementation 
+7. Database Implementations
 The RaceDay database is implemented using Microsoft SQL Server and SQL Server Management Studio (SSMS). The SQL script creates the RaceDayDB database, creates all 
 tables from the ERD, defines primary keys and foreign keys, and inserts realistic sample data including organisers, participants, events, categories, enrolments and results. 
 8. Design Note 
