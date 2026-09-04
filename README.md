@@ -28,7 +28,7 @@ Each table has a primary key that uniquely identifies every record:
 •	Enrolments - enrolmentID 
 •	Results - resultID 
 
-5. Relationships Between Entities (Microsoft 2026b).
+5. Relationships Between Entities.
 •	A User can be an Organiser. The Organisers table has userID as a foreign key. 
 •	An Organiser can manage one or more Events. Each Event is linked to an organiser using organiserID. 
 •	An Event can have one or more Categories. Each Category is linked to an Event using eventID. 
