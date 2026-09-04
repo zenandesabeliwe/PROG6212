@@ -18,7 +18,7 @@ Enrolments
 Stores information when a participant enrols for an event, including the enrolment date. 
 Results 
 Stores race results, including finish time and finish position. Each result is linked to an enrolment. 
-4. Primary Keys 
+4. Primary Keys are
 Each table has a primary key that uniquely identifies every record: 
 •	Users - userID 
 •	Organisers - organiserID 
