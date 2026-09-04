@@ -5,7 +5,7 @@ RaceDay is a database system designed to manage running events. The system store
 The ERD is used to plan the structure of the RaceDay database before creating it in Microsoft SQL Server. Each entity represents a table in the database, while primary keys and foreign keys are used to create relationships between the tables. 
 3. Entities in the RaceDay System 
 Users 
-Stores the details of every user in the RaceDay system, like user ID, full name, email address, phone number, password and user role. 
+keeps the details of every user in the RaceDay system, like user ID, full name, email address, phone number, password and user role. 
 Organisers 
 Stores event organiser information. Each organiser is linked to a user through userID. 
 Events 
