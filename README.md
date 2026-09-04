@@ -40,7 +40,7 @@ Each table has a primary key that uniquely identifies every record:
 •	PRIMARY KEY – uniquely identifies each record in a table (Microsoft 2026a).
 •	FOREIGN KEY – creates relationships between tables and maintains referential integrity. 
 •	NOT NULL – ensures that important fields cannot be left empty. 
-•	UNIQUE – prevents duplicate values, for example duplicate email addresses. 
+•	UNIQUE – prevents duplicate values, like the duplicate email addresses. 
 •	DEFAULT – provides a default value when no value is supplied. 
 
 7. Database Implementations
